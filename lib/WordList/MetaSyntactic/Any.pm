@@ -77,3 +77,6 @@ Acme::MetaSyntactic::* module.
 L<WordList>
 
 L<Acme::MetaSyntactic>
+
+Some C<Acme::MetaSyntactic::*> modules get their names from wordlist, e.g.
+L<Acme::MetaSyntactic::countries>.
